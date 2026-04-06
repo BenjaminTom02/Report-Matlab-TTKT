@@ -12,4 +12,4 @@ detector.ScaleFactor = 1.01;
 detector.MinSize = [20 20]; 
 <img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/56915c4d-60a8-4cb4-9a2a-74a5e6a3f397" />
 
-**-> It is sometimes can detect some ghost :>**
+**-> It is sometimes can detect some ghosts, even in the morning :>**
